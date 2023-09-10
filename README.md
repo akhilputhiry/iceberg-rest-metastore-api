@@ -7,3 +7,4 @@ API's to be implemented - https://petstore.swagger.io/?url=https://raw.githubuse
 
 Hive Schema - https://github.com/apache/hive/blob/master/standalone-metastore/metastore-server/src/main/sql/mysql/hive-schema-3.2.0.mysql.sql
 
+Can we use py iceberg ? - https://py.iceberg.apache.org/
